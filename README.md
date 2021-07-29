@@ -12,9 +12,10 @@ Simple Pokedex of original 151 pokemon. Allows for addition of user pokemon.
 
 ## Tech Stack
 
- - React
- - Javascript
- - Rails
+ - Frontend: React
+ - Database: Postgres
+ - Server-side framework: Rails
+ - Languages: Ruby, Javascript
 
 
 ## Authors
